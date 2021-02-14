@@ -1,0 +1,9 @@
+.meme-section {
+  position: fixed;
+  bottom: 0px;
+  height: 50%;
+  width: 100%;
+  overflow: auto;
+ padding-left: 10%;
+}
+
